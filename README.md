@@ -1,12 +1,12 @@
 # Mesh Controller
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/cellery-io/mesh-controller)](https://goreportcard.com/report/github.com/cellery-io/mesh-controller)
-[![GitHub (pre-)release](https://img.shields.io/github/release/cellery-io/mesh-controller/all.svg)](https://github.com/cellery-io/mesh-controller/releases)
-[![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/cellery-io/mesh-controller.svg)](https://github.com/cellery-io/mesh-controller/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/cellery-io/mesh-controller.svg)](https://github.com/cellery-io/mesh-controller/commits/master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wso2-cellery/mesh-controller)](https://goreportcard.com/report/github.com/wso2-cellery/mesh-controller)
+[![GitHub (pre-)release](https://img.shields.io/github/release/wso2-cellery/mesh-controller/all.svg)](https://github.com/wso2-cellery/mesh-controller/releases)
+[![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/wso2-cellery/mesh-controller.svg)](https://github.com/wso2-cellery/mesh-controller/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/wso2-cellery/mesh-controller.svg)](https://github.com/wso2-cellery/mesh-controller/commits/master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
-Mesh controller is a Kubernetes implementation for the Cellery mesh (a.k.a Cell Mesh) builds using Istio. To learn more about about Cellery, check out the [cellery-sdk](https://github.com/cellery-io/sdk) repository.
+Mesh controller is a Kubernetes implementation for the Cellery mesh (a.k.a Cell Mesh) builds using Istio. To learn more about about Cellery, check out the [cellery-sdk](https://github.com/wso2-cellery/sdk) repository.
 
 ## Getting Started
 
@@ -25,8 +25,8 @@ Mesh Controller requires a Kubernetes cluster with Istio installed in order to w
 1. Clone this repository to your $GOPATH
    
     ```bash
-    cd $GOPATH/src/github.com/cellery-io/
-    git clone https://github.com/cellery-io/mesh-controller.git
+    cd $GOPATH/src/github.com/wso2-cellery/
+    git clone https://github.com/wso2-cellery/mesh-controller.git
     cd mesh-controller
     ```
    
